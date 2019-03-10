@@ -1,6 +1,6 @@
 # Online Tools
-Please go to [Online Tools](http://emn178.github.io/online-tools/)
+Please go to [Online Tools](https://dzapps.github.io/online-tools/index.html)
 
 ## Contact
-The project's website is located at https://github.com/emn178/online-tools  
-Author: emn178@gmail.com
+The project's website is located at https://github.com/dzapps/online-tools  
+Author: AliDZ
